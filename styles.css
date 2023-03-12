@@ -196,12 +196,9 @@
 
 @media screen and (max-width: 768px) {
   .hero__heading {
-    font-size: 60px;
+    font-size: 50px;
   }
 
-  .hero__description {
-    font-size: 40px;
-  }
 }
 /* How it works*/
 .howitworks {
@@ -847,7 +844,7 @@ details summary{
 }
 @media screen and (max-width: 768px) {
   .box{
-    width:450px;
+    width:350px;
   }
 }
 /* Footer CSS */
